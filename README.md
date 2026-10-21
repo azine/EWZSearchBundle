@@ -6,6 +6,8 @@ EWZSearchBundle
 This bundle provides advance search capability for Symfony.
 
 ## Installation
+
+Requires PHP 8.5.12 or newer.
 Installation depends on how your project is setup:
 
 ### Installation using composer
